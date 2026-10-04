@@ -1,0 +1,61 @@
+.github/workflows/publish-specs.yml
+  s_d2d0641f200991::t_032e21d369055b 1-40
+.gitignore
+  s_d2d0641f200991::t_832d5ad140c6a7 1-2
+README.md
+  s_efaab58721be86::t_c9649878be707f 1-121
+openspec/changes/add-recurring-bookings/.openspec.yaml
+  s_d2d0641f200991::t_ca8670eeee52dc 1-2
+openspec/changes/add-recurring-bookings/design.md
+  s_d2d0641f200991::t_72e26867e1192f 1-15
+openspec/changes/add-recurring-bookings/proposal.md
+  s_d2d0641f200991::t_ac499eae6f8d6f 1-24
+openspec/changes/add-recurring-bookings/specs/bookings/spec.md
+  s_d2d0641f200991::t_cb2d73ed21789e 1-47
+openspec/changes/add-recurring-bookings/tasks.md
+  s_d2d0641f200991::t_59339df1f9e1de 1-18
+openspec/changes/archive/2026-09-14-release-unattended-rooms/.openspec.yaml
+  s_d2d0641f200991::t_db44c1847a7c7b 1-2
+openspec/changes/archive/2026-09-14-release-unattended-rooms/proposal.md
+  s_d2d0641f200991::t_a2a8e9ac3d87d0 1-20
+openspec/changes/archive/2026-09-14-release-unattended-rooms/specs/check-in/spec.md
+  s_d2d0641f200991::t_4d0842cd2b7da8 1-21
+openspec/changes/archive/2026-09-14-release-unattended-rooms/tasks.md
+  s_d2d0641f200991::t_d1f54892e16717 1-11
+openspec/config.yaml
+  s_d2d0641f200991::t_537abec91695de 1-4
+openspec/specs/bookings/spec.md
+  s_d2d0641f200991::t_b2dbe6f33a7061 1-62
+openspec/specs/check-in/spec.md
+  s_d2d0641f200991::t_f90a92e0a3ad96 1-39
+showcase/step.sh
+  s_efaab58721be86::t_6c143c9b411076 1-62
+showcase/steps/2/openspec/changes/add-waiting-list/specs/bookings/spec.md
+  s_efaab58721be86::t_23099c586d3a91 1-49
+showcase/steps/3/openspec/specs/bookings/spec.md
+  s_efaab58721be86::t_7ff5f5da946ede 1-95
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "dd33e7c4734bd4487e41b28d6b814012e978275d",
+  "prompts": {},
+  "sessions": {
+    "s_d2d0641f200991": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a102a3-64dc-7e82-994f-c05f40918584",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "stefanoslig <stefanoslignos@gmail.com>"
+    },
+    "s_efaab58721be86": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ed940d0d-89fc-46b3-8e7e-df3cf01a93ab",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "stefanoslig <stefanoslignos@gmail.com>"
+    }
+  }
+}
