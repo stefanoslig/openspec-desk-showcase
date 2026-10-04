@@ -1,0 +1,4 @@
+schema: spec-driven
+context: |
+  Huddle is a fictional service for booking meeting rooms. These artifacts exist to show
+  OpenSpec Desk publishing specs from CI.
