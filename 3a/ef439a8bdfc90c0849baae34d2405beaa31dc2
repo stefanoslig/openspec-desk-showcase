@@ -1,0 +1,31 @@
+openspec/changes/add-waiting-list/.openspec.yaml
+  s_efaab58721be86::t_3bedf69bb48b6f 1-2
+openspec/changes/add-waiting-list/design.md
+  s_efaab58721be86::t_d01d93f365ef34 1-15
+openspec/changes/add-waiting-list/proposal.md
+  s_efaab58721be86::t_c0d15907a4e173 1-26
+openspec/changes/add-waiting-list/specs/bookings/spec.md
+  s_efaab58721be86::t_f4559c10194804 1-49
+openspec/changes/add-waiting-list/specs/check-in/spec.md
+  s_efaab58721be86::t_8dd2c0caf33913 1-17
+openspec/changes/add-waiting-list/specs/waiting-list/spec.md
+  s_efaab58721be86::t_fd0ae846282440 1-45
+openspec/changes/add-waiting-list/tasks.md
+  s_efaab58721be86::t_cd5ef526f72cb0 1-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3aef439a8bdfc90c0849baae34d2405beaa31dc2",
+  "prompts": {},
+  "sessions": {
+    "s_efaab58721be86": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ed940d0d-89fc-46b3-8e7e-df3cf01a93ab",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "stefanoslig <stefanoslignos@gmail.com>"
+    }
+  }
+}
